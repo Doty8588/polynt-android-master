@@ -1,0 +1,4 @@
+include ':app', ':plistparser'
+include ':zip_file'
+include ':library'
+include ':mupdf'

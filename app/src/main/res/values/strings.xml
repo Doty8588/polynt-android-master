@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Polynt</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_product">ProductActivity</string>
+    <string name="title_activity_main_category">MainCategoryActivity</string>
+    <string name="title_activity_file_item">FileItemActivity</string>
+    <string name="title_activity_pdffile">PDFFileActivity</string>
+</resources>
